@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Which Servamp are you</string>
+    <string name="which_servamp_are_you">Which Servamp Are You?</string>
+    <string name="which_servant_are_you">Which Servant Are You?</string>
+    <string name="textview">TextView</string>
+    <string name="todo">TODO</string>
+    <string name="reset">RESET</string>
+</resources>
